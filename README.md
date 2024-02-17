@@ -14,14 +14,14 @@
 
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-sabbir&theme=github-dark&hide_border=true)](https://git.io/streak-stats" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abusaiyedjoy&theme=github-dark&hide_border=true)](https://git.io/streak-stats" />
 </p>
 
 
 
 <div align="center">
 
-![Current overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafat-sabbir&theme=github_dark)
+![Current overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusaiyedjoy&theme=github_dark)
 
 </div>
 
