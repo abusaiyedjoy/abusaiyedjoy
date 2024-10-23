@@ -17,22 +17,11 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abusaiyedjoy&theme=github-dark&hide_border=true)](https://git.io/streak-stats" />
 </p>
 
-<div align="center">
-![Current overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusaiyedjoy&theme=github_dark)
-</div>
-
-# 🔎 Reach me out
-
-<div align="center">
-[![LinkedIn](https://i.ibb.co/7RvkSmq/icons8-linkedin-96.png)](https://www.linkedin.com/in/arafat-sabbir/)
-[![Twitter](https://i.ibb.co/HnptcvH/icons8-twitter-96.png)](https://twitter.com/arafatshabbir8)
-</div>
-
 # 💻 Technologies that I know
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arafat-sabbir/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,mongodb,express,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,react,mongodb,nede,vite,express,firebase,figma" />
   </a>
 </p>
 
