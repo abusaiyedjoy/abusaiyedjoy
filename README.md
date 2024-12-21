@@ -34,7 +34,7 @@
 # 💼 My Latest Work
 
 ## 🏠 Echo State (Real Estate Website)
-### [Live Link]((https://echo-state.web.app/)"Real Estate Platform")
+### [Live Link](https://echo-state.web.app "Real Estate Platform")
 ### Overview
 - A real estate website for home buying and selling.
 - Users can buy properties from agents, review properties, and manage their purchases.
@@ -43,7 +43,7 @@
 
 
 ## 🐾 Pet Haven BD (Pet Adoption Website)
-### [Live Link]((https://remarkable-sherbet-bed88f.netlify.app/) "The best search engine for privacy")
+### [Live Link](https://remarkable-sherbet-bed88f.netlify.app/ "The best search engine for privacy")
 ### Overview
 - A pet adoption platform for finding homes for pets.
 - Users can browse pets available for adoption, filter based on breed, and communicate with pet owners.
