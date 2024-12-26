@@ -1,6 +1,6 @@
 ---
 
-![The San Juan Mountains are beautiful!](https://i.ibb.co/FDqJ0vQ/Blue-Modern-Email-Signature-1.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://i.ibb.co.com/NY5Sk4G/Screenshot-29.png "San Juan Mountains")
 
 # About Me
 ### I'm a dedicated MERN stack developer who combines technical proficiency with a keen eye for design, creating websites that exceed user expectations in terms of both form and function.
