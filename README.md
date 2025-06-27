@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abusaiyedjoy/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,react,mongodb,nodejs,vite,express,firebase,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,react,typescript,mongodb,mongoose,nodejs,vite,express,firebase,postgresql,figma" />
   </a>
 </p>
 
