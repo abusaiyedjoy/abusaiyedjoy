@@ -1,52 +1,62 @@
+![GitHub Banner](https://i.ibb.co/jZ1F610/Github-banner.png)
+
+# 👋 About Me
+
+### I'm a dedicated MERN Stack Developer who combines technical proficiency with a keen eye for design — crafting websites that exceed user expectations in both form and function.
+
+### 🚀 I focus on:
+- Creating delightful user experiences  
+- Building intuitive & responsive interfaces  
+- Writing clean, maintainable, and scalable code  
+- Being a reliable team player and strong communicator  
+
 ---
 
-![The San Juan Mountains are beautiful!](https://i.ibb.co/jZ1F610P/Github-banner.png")
-
-# About Me
-### I'm a dedicated MERN stack developer who combines technical proficiency with a keen eye for design, creating websites that exceed user expectations in terms of both form and function.
-
-### Focused on:
-- Delightful user experiences
-- Intuitive & responsive interfaces
-- Clean & maintainable code
-- Being a team player and a strong communicator
-
-# 🧨 Current GitHub Activity Streak
+# 🔥 GitHub Activity Streak
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abusaiyedjoy&theme=github-dark&hide_border=true" />
 </p>
 
-# 💻 Technologies I Know
+---
+
+# 💻 Technologies I Use
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abusaiyedjoy/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,react,redux,next js,typescript,mongoose,nodejs,express,prisma,docker,AWS,RDBMS,graphql,postgresql,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,react,redux,nextjs,ts,mongoose,nodejs,express,prisma,docker,aws,graphql,postgres,figma" />
   </a>
 </p>
 
-# Current Overview
+---
 
-### 🗒 I'm learning TypeScript, Mongoose, Redux & Next.js
-### 🗒 I'm learning GSAP for animation
-### 🗒 I'm improving my communicative English for better collaboration
+# 📚 Currently Learning
 
-# 💼 My Latest Work
-
-## 🏠 Echo State (Real Estate Website)
-### [Live Link](https://echo-state.web.app "Real Estate Platform")
-### Overview
-- A real estate website for home buying and selling.
-- Users can buy properties from agents, review properties, and manage their purchases.
-- Agents can list properties for sale and manage their listings.
-- Admins can manage users, properties, reviews, and feature properties on the home page.
-
-
-## 🐾 Pet Haven BD (Pet Adoption Website)
-### [Live Link](https://remarkable-sherbet-bed88f.netlify.app/ "The best search engine for privacy")
-### Overview
-- A pet adoption platform for finding homes for pets.
-- Users can browse pets available for adoption, filter based on breed, and communicate with pet owners.
-- Admins can manage listings, users, and approve adoptions.
+- 🔷 TypeScript, Mongoose, Redux, and Next.js  
+- 🎞️ GSAP for web animations  
+- 🗣️ Communicative English for better global collaboration  
 
 ---
+
+# 💼 Featured Projects
+
+## 🏠 Echo State — Real Estate Website  
+🔗 [Live Site](https://echo-state.web.app)  
+### Overview
+- A full-featured real estate platform for home buyers and sellers.
+- 🛒 Buyers: Browse, review, and purchase properties listed by agents.  
+- 🏢 Agents: Manage property listings and interact with users.  
+- 🔧 Admins: Oversee users, properties, reviews, and homepage features.
+
+---
+
+## 🐾 Pet Haven BD — Pet Adoption Platform  
+🔗 [Live Site](https://remarkable-sherbet-bed88f.netlify.app)  
+### Overview
+- A pet adoption platform connecting pet lovers with animals in need of homes.
+- 🐶 Users: Search by breed, view detailed pet profiles, and contact pet owners.  
+- 🛠️ Admins: Manage users, approve listings, and ensure adoption transparency.
+
+---
+
+> 📫 Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/abusaiyedjoy/)
