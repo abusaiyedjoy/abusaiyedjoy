@@ -1,6 +1,6 @@
 ---
 
-![The San Juan Mountains are beautiful!](https://i.ibb.co.com/NY5Sk4G/Screenshot-29.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://i.ibb.co/jZ1F610P/Github-banner.png)
 
 # About Me
 ### I'm a dedicated MERN stack developer who combines technical proficiency with a keen eye for design, creating websites that exceed user expectations in terms of both form and function.
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abusaiyedjoy/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,react,typescript,mongodb,mongoose,nodejs,vite,express,firebase,postgresql,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,react,redux,next js,typescript,mongoose,nodejs,express,prisma,docker,AWS,RDBMS,graphql,postgresql,figma" />
   </a>
 </p>
 
