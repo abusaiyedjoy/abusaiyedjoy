@@ -1,4 +1,4 @@
-![GitHub Banner](https://i.ibb.co/jZ1F610/Github-banner.png)
+![GitHub Banner](https://i.ibb.co/jZ1F610P/Github-banner.png)
 
 # 👋 About Me
 
