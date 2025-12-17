@@ -1,4 +1,4 @@
-![GitHub Banner](https://i.ibb.co/jZ1F610P/Github-banner.png)
+![GitHub Banner](https://i.ibb.co.com/KpyfgKL6/Chat-GPT-Image-Dec-17-2025-10-34-55-PM.png)
 
 <div align="center">
 
