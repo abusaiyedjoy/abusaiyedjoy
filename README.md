@@ -41,7 +41,10 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 ## 🔥 GitHub Activity Streak
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abusaiyedjoy&theme=github-dark&hide_border=true" />
+  <img
+  src="https://streak-stats.demolab.com?user=abusaiyedjoy&theme=github-dark&hide_border=true"
+  width="60%"
+/>
 </p>
 
 ---
