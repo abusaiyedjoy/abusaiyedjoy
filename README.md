@@ -1,4 +1,4 @@
-![GitHub Banner](https://i.ibb.co.com/KpyfgKL6/Chat-GPT-Image-Dec-17-2025-10-34-55-PM.png "Abu Saiyed Joy Portfolio")
+![GitHub Banner](https://imagizer.imageshack.com/img921/6773/8F3bcx.png "Abu Saiyed Joy Portfolio")
 ![](https://komarev.com/ghpvc/?username=abusaiyedjoy&color=brightgreen)
 
 <div align="center">
