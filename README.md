@@ -1,4 +1,5 @@
-![GitHub Banner](https://i.ibb.co.com/KpyfgKL6/Chat-GPT-Image-Dec-17-2025-10-34-55-PM.png)
+![GitHub Banner](https://i.ibb.co.com/KpyfgKL6/Chat-GPT-Image-Dec-17-2025-10-34-55-PM.png "Abu Saiyed Joy Portfolio")
+![](https://komarev.com/ghpvc/?username=abusaiyedjoy&color=brightgreen)
 
 <div align="center">
 
@@ -42,9 +43,18 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 
 <p align="center">
   <img
-  src="https://streak-stats.demolab.com?user=abusaiyedjoy&theme=github-dark&hide_border=true"
-  width="60%"
-/>
+    src="https://streak-stats.demolab.com?user=abusaiyedjoy&theme=dark"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abusaiyedjoy&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusaiyedjoy&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -196,15 +206,6 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 - **Rider:** 143princejoy@gmail.com / 01988084185aA@
 - **Driver:** abu.saidking@gmail.com / 01988084185aA@
 - **Admin:** abusaiyedjoy1@gamail.com / 12345678
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abusaiyedjoy&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusaiyedjoy&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
